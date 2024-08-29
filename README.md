@@ -11,7 +11,15 @@
 * 🌱   Currently learning Computer vision, Intelligent robotics, Math······
 * 📚   Received several first-prize awards in national competitions.
 * 💻   Proficient in Python, C and C++.
-* ⛵   Encouraging people for open source collaborations.
+
+👑 I will upload a small portion of my work on GitHub, but that's far from everything. If interested, please get in touch!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!--
 <details>
