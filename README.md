@@ -1,19 +1,19 @@
-# Hello there 👋
+# Hello, I am Ruicheng Zhang👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-**A junior at Sun Yat-sen University** 💻⎈🤖 I'm majoring in Intelligent System Engineering at Sun Yat-sen University, navigating the fascinating world of AI and smart technologies!
+💻⎈🤖 I'm majoring in **Intelligent System Engineering** at Sun Yat-sen University, navigating the fascinating world of AI and smart technologies!🦾
     
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 🧐   Interested in deep learning. Recent focus on **Diffusion Model** and **Medical Image Processing**.
+* 💼   A junior at **Sun Yat-sen University**
+* 🎓   Grade Point Average 4.25+/5.0 (3.99/4.0), TOP 1%, Ranking 2/189.
+* 🌱   Currently learning Computer vision, Intelligent robotics, Math······
+* 📚   Received several first-prize awards in national competitions.
+* 💻   Proficient in Python, C and C++.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
 
+<!--
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
@@ -62,7 +62,7 @@
 
 </p>
 
----
+-->
 
 <!--
 <p align="center">
