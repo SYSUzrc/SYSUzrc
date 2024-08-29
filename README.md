@@ -13,12 +13,10 @@
 * 💻   Proficient in Python, C and C++.
 
 👑 I will upload a small portion of my work on GitHub, but that's far from everything. If interested, please get in touch!
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3> ✉ zhangrch23@mail2.sysu.edu.cn
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!--
